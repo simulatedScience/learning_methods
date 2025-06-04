@@ -8,9 +8,9 @@ Many machine learning (ML) methods have been developed to mimic these processes.
 |-----------------------|---------|--------|-----------------------------|
 | **Evolution**             | genetic evolution                             | genetic evolution | genetic algorithms (e.g. NEAT) |
 | **Trial & Error**         | Conditioning                                  | Conditioning      | Reinforcement learning |
-| **Imitation**             | Orcas teaching hunting methods & language     | Learning language | Supervised learning, Imitation learning |
+| **Imitation**             | Orcas teaching hunting methods & language     | Learning language | Supervised learning, </br> Imitation learning |
 | **Abstract Instructions** | Bee dance to describe location of food        | Most of school / higher education,  baking recipes | In-context learning in LLMs |
-| **Mental Simulation**     | Birds cracking nuts using cars  tool use | Dreams,  pondering other's reactions | World models (e.g. DreamerV3) |
+| **Mental Simulation**     | Birds cracking nuts using cars, </br> tool use | Dreams, </br> pondering other's reactions | World models (e.g. DreamerV3) |
 
 ## 1. Evolution
 Evolution is different from the other learning methods in that it is not a learning method of an individual, but of a species, requiring the existence of multiple individuals. Each individual is mostly static and does not learn during its lifetime. Instead, the learning happens on a species level, evolving its individuals over time by creating modified copies. By selecting good individuals, the species can, over time, improve on a given task.

@@ -1,4 +1,4 @@
-# Learning Methods
+# Learning Methods in Humans, Animals, and Computers"
 This is an overview of different learning mechanisms used by humans and animals along with machine learning that try to replicate them.
 Humans regularly use a combination of these methods to learn new things and most humans are capable of using all of them. From what we know, many animals can also use several of these techniques, while many others mostly rely on evolution.
 
